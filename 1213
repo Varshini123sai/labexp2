@@ -50,12 +50,6 @@ summary {
  <p><a href="who123@gmail.com">who@example.com</a></p>
 </footer>
 <h3><center>Audio</center></h3>
-<center>
-<audio controls>
-	<source src="water.mp3">
-</audio></center>
-<h3><center>A YouTube Video</center></h3>
-<center><iframe width="560" height="315" src="https://youtu.be/668nUCeBHyY?list=WL" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 
 </body>
