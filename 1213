@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<style>
+aside {
+  width: 30%;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: right;
+  background-color: lightgray;
+}
+summary {
+  padding: 4px;
+  width: 200px;
+  background-color: #eeeeee;
+  border: none;
+  box-shadow: 1px 1px 2px #bbbbbb;
+  cursor: pointer;
+}
+</style>
+<body>
+<section>
+<header>
+  <h1><mark>WHO</mark></h1><a>(World health organization)</a>
+</header>
+<figure>
+  <img src="who213.jpg" alt="Trulli" style="width:50%">
+  <figcaption>Fig.1 - WHO.</figcaption>
+</figure>
+  <p>The World Health Organization (WHO) is a specialized agency of the United Nations responsible for international public health. 
+  The WHO Constitution, which establishes the agency's governing structure and principles, states its main objective as "the attainment by all peoples of the highest possible level of health.</p>
+<aside>
+  <h4>Formation</h4>
+  <a>7 April 1948; 72 years ago</a>
+  <h4>Headquarters</h4>
+   <a>Switzerland</a>
+</aside>
+</section>
+<article >
+<h4>Origin</h4>
+<p>The International Sanitary Conferences, originally held on 23 June 1851, were the first predecessors of the WHO. A series of 14 conferences that lasted from 1851 to 1938,
+ the International Sanitary Conferences worked to combat many diseases, chief among them cholera, yellow fever, and the bubonic plague</p>
+ <h4>Establishment</h4>
+<p>The use of the word "world", rather than "international", emphasized the truly global nature of what the organization was seeking to achieve.
+ The constitution of the World Health Organization was signed by all 51 countries of the United Nations, and by 10 other countries, on 22 July 1946</p>
+</article>
+ <summary>Summary of WHO</summary>
+  <p>To make achievements towards these targets, the draft lists actions that countries and the WHO can take,
+ such as a commitment to universal health coverage, medical accessibility, prevention and eradication of disease, and efforts to educate the public.</p>
+<footer>
+ <p><a href="who123@gmail.com">who@example.com</a></p>
+</footer>
+<h3><center>Audio</center></h3>
+<center>
+<audio controls>
+	<source src="happyaudio.mp3">
+</audio></center>
+
+</body>
+</html>
